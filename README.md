@@ -12,7 +12,7 @@
 
 </b></i>
 
-- [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
+- [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
 
 <h2> Certification </h2>
 
