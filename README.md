@@ -12,7 +12,7 @@
 
 </b></i>
 
-- [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
+- [JWipe (Disk Wiping Utility)](https://github.com/Fredbruce123/ActiveDirectoryLab)
 
 <h2> Certification </h2>
 
